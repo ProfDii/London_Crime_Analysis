@@ -1,0 +1,25 @@
+,Random State,Solver,Multi-Class,LogLoss,Mean Absolute Error
+0,0,lbfgs,multinomial,1.4497,1.9373
+1,5,lbfgs,multinomial,1.4497,1.9373
+2,10,lbfgs,multinomial,1.4497,1.9373
+3,20,lbfgs,multinomial,1.4497,1.9373
+4,42,lbfgs,multinomial,1.4497,1.9373
+5,50,lbfgs,multinomial,1.4497,1.9373
+6,0,newton-cg,multinomial,1.4504,1.9373
+7,5,newton-cg,multinomial,1.4504,1.9373
+8,10,newton-cg,multinomial,1.4504,1.9373
+9,20,newton-cg,multinomial,1.4504,1.9373
+10,42,newton-cg,multinomial,1.4504,1.9373
+11,50,newton-cg,multinomial,1.4504,1.9373
+12,0,sag,multinomial,1.4763,1.9373
+13,5,sag,multinomial,1.4763,1.9373
+14,10,sag,multinomial,1.4763,1.9373
+15,20,sag,multinomial,1.4763,1.9373
+16,42,sag,multinomial,1.4763,1.9373
+17,50,sag,multinomial,1.4763,1.9373
+18,0,saga,multinomial,1.4789,1.9373
+19,5,saga,multinomial,1.4789,1.9373
+20,10,saga,multinomial,1.4789,1.9373
+21,20,saga,multinomial,1.4789,1.9373
+22,42,saga,multinomial,1.4789,1.9373
+23,50,saga,multinomial,1.4789,1.9373
